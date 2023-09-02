@@ -3,4 +3,5 @@ I built a task tracker using Vue.js, HTML, CSS, and JavaScript. It is a web appl
 
 ## To Setup That project You have to run those commands 
  npm install
+ 
  npm run serve
