@@ -1,6 +1,6 @@
-# Vue Crash Course (Task Tracker)
+# Task Tracker
 
-> This is the project from the YouTube crash course
+Task Tracker, is a web application developed using Vue.js, HTML, CSS, and JavaScript. The application allows users to track and manage their tasks efficiently. It also incorporates an API and a JSON file for data management.
 
 ## Project setup
 
